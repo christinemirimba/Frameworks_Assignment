@@ -4,7 +4,9 @@ This project analyzes a sample of COVID-19 research papers from the CORD-19 meta
 
 ## 📂 Project Structure**
 
-week8/ │── app.py # Streamlit app │── requirements.txt # Python dependencies │── README.md # Project documentation
+week8/ │── app.py # Streamlit app 
+       │── requirements.txt # Python dependencies 
+       │── README.md # Project documentation
 
 Code
 
